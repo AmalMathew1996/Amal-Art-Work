@@ -1,0 +1,215 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #000000;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+/*navbar section*/
+
+
+
+
+.nav-item {
+	padding: 0 25px;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+	color: #FFFFFF;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #FFFFFF;
+}
+.container-fluid {
+	padding: 0;
+	text-align: center;
+}
+.scrolled {
+	background: #000000;
+	transition: 0.5s;
+}
+
+
+
+
+/*carousel item*/
+
+
+
+
+.carousel-item {
+	height: 100vh;
+}
+.img-box {
+	width: 550px;
+	position: relative;
+}
+.pic-one {
+	width: 100%;
+}
+
+.slide-one {
+	background-image: linear-gradient(to right, #04a2a4, #0b1d37);
+}
+.carousel-item .row {
+	margin: 200px 0;
+}
+.carousel-item h1 {
+	margin-top: 50px;
+
+	color: #FFFFFF;
+}
+.carousel-item p {
+	margin: 30px 0 50px;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+.slide-two {
+	background-image: linear-gradient(to right, #151b35, #1c61b6);
+}
+.img-one {
+	width: 87%;
+}
+
+
+
+
+
+/* Face Portrait*/
+
+
+
+
+
+.view-more {
+	margin: 5%;
+}
+.face-portraits {
+	text-align: center;
+	padding: 50px;
+	color: #F3F3F3;
+}
+/*About*/
+.about {
+	color: #FFFFFF; 
+}
+
+.about img {
+	width: 100%;
+}
+
+
+
+
+
+/*video*/
+
+.video {
+	padding: 3% 15% ;
+}
+
+
+
+.videos {
+	text-align: center;
+	padding: 50px;
+	color: #000000;
+}
+#video {
+	background-color: #FFFFFF;
+}
+[class*="main-video"] {
+	width: 100%;
+}
+
+
+
+
+
+
+
+/*portrait drawing*/
+
+
+
+
+
+.swiper-container {
+	width: 100%;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+.swiper-slide {
+	background-position: center;
+	background-size: cover;
+	width: 300px;
+	height: 380px;
+	background: #FFFFFF;
+}
+.swiper-slide .imgBx {
+	width: 100%;
+	height: 300px;
+	overflow: hidden;
+}
+.swiper-slide .imgBx img {
+	width: 100%;
+}
+.swiper-slide .details {
+	box-sizing: border-box;
+	padding: 20px;
+	text-align: center;
+}
+.swiper-slide .details h3 {
+	padding: 0;
+	margin: 0;
+	font-size: 20px;
+	line-height: 20px;
+}
+.swiper-slide .details h3 span {
+	font-size: 16px;
+	color: #C40003;
+}
+/*footer section*/
+
+#footer {
+	padding: 3% 15%;
+	background-color: #FFFFFF;
+}
+.social-icon {
+	margin: 20px 10px;
+}
+.icons {
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+
+/*About */
+#about {
+	padding: 3 0%;
+	background-image: linear-gradient(to right, #2f2f2f, #1d1d1d);
+}
+
+.about {
+	
+	color: #FFFFFF;
+}
+
+.about-pic {
+	width: 100px;
+}
+.me {
+	padding: 10%;
+}
+
+
